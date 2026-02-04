@@ -24,4 +24,4 @@ This repository tracks my progress in mastering JavaScript fundamentals and logi
 
 ### 👨‍💻 About Me
 
-I am a 3rd-year Chemical Engineering student at **MNNIT Prayagraj**. I am actively building a technical portfolio to demonstrate analytical rigor and industry readiness for Phase-1 placements.
+I am a 3rd-year Chemical Engineering student at **MNNIT Prayagraj**. I am actively building a technical portfolio to demonstrate analytical rigor and industry readiness for placements.
